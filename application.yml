@@ -1,0 +1,10 @@
+my:
+  greeting: Hi
+
+# Below is used in actuator
+management.endpoints.web.exposure.include: "*"
+
+#spring:
+#  profiles:
+#    active:
+#    - test 
