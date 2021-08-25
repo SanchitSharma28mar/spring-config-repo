@@ -1,6 +1,10 @@
 my:
   greeting: Hi - Update 4 for Bus Testing
 
+app:
+  developer:
+    name: Sanchit Sharma
+
 # Below is used in actuator
 management.endpoints.web.exposure.include: "*"
 
