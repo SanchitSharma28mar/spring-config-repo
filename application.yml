@@ -1,5 +1,5 @@
 my:
-  greeting: Hi - Update 3 for Bus Testing
+  greeting: Hi - Update 4 for Bus Testing
 
 # Below is used in actuator
 management.endpoints.web.exposure.include: "*"
