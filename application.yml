@@ -1,5 +1,5 @@
 my:
-  greeting: Hi - Update 2. Lets check with spring Cloud Bus
+  greeting: Hi - Update 1. Lets check with spring Cloud Bus
 
 # Below is used in actuator
 management.endpoints.web.exposure.include: "*"
