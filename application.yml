@@ -1,5 +1,5 @@
 my:
-  greeting: Hi
+  greeting: Hi - Update 1
 
 # Below is used in actuator
 management.endpoints.web.exposure.include: "*"
